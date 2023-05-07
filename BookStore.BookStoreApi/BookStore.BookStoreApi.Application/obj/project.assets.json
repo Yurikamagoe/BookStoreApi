@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BookStore.BookStoreApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookStore.BookStoreApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.BookStoreApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookStore.BookStoreApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.BookStoreApi.Domain/BookStore.BookStoreApi.Domain.csproj",
+      "msbuildProject": "../BookStore.BookStoreApi.Domain/BookStore.BookStoreApi.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BookStore.BookStoreApi.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yuri_\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Application\\BookStore.BookStoreApi.Application.csproj",
+      "projectName": "BookStore.BookStoreApi.Application",
+      "projectPath": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Application\\BookStore.BookStoreApi.Application.csproj",
+      "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+      "outputPath": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Domain\\BookStore.BookStoreApi.Domain.csproj": {
+              "projectPath": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Domain\\BookStore.BookStoreApi.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
