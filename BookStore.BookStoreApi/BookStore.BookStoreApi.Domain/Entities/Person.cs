@@ -16,7 +16,7 @@ namespace BookStore.BookStoreApi.Domain.Entities
 
         public Person(string document, string name, string phone)
         {
-            Validation(document, name, phone)
+            Validation(document, name, phone);
         }
 
         public Person(int id, string document, string phone)

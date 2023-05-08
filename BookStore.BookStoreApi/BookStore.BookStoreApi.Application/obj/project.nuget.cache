@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8QrRQFWgAIveo8slYhGqBUugMq5lDXl7xMCABkkVIA3R03aLY/ZTkuIc9IEGfT3XGDYOMxU/8tIDGwckmIybQ==",
+  "dgSpecHash": "oGVChNFE/klkHNnlP2uqeXtjteW8BvC9QS+qfmCUGYG5EUvXIyURX+KHA0OP3N2wLjH7NOkAYYVN7GieuKkEOw==",
   "success": true,
   "projectFilePath": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Application\\BookStore.BookStoreApi.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yuri_\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
   "logs": []
 }
