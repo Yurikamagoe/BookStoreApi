@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BookStore.BookStoreApi.Application.Service.Interfaces
 {
-    internal interface IPersonService
+    public interface IPersonService
     {
         Task<ResultService<PersonDTO>> CreateAsync(PersonDTO personDTO);
     }

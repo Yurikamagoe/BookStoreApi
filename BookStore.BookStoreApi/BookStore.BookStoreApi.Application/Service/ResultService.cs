@@ -33,7 +33,7 @@ namespace BookStore.BookStoreApi.Application.Service
         }
 
         public static ResultService Fail(string message) => new ResultService { IsSuccess = false, Message = message };
-        public static ResultService Fail<T>(string message) => new ResultService<T> { IsSuccess = false, Message = message };
+        public static ResultService<T> Fail<T>(string message) => new ResultService<T> { IsSuccess = false, Message = message };
 
         public static ResultService OK(string message) => new ResultService { IsSuccess = true, Message = message };
         public static ResultService<T> OK<T>(T data) => new ResultService<T> { IsSuccess = true, Data = data };

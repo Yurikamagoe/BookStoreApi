@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookStore.BookStoreApi.Application.DTOs
 {
-    internal class PersonDTO
+    public class PersonDTO
     {
         public int Id { get; set; }
         public string Name { get; set; }

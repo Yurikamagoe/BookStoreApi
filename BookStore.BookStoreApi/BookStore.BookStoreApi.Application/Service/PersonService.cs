@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using BookStore.BookStoreApi.Application.DTOs;
+using BookStore.BookStoreApi.Application.DTOs.Validations;
 using BookStore.BookStoreApi.Application.Service.Interfaces;
+using BookStore.BookStoreApi.Domain.Entities;
 using BookStore.BookStoreApi.Domain.Repositories;
 using System;
 using System.Collections.Generic;
@@ -10,17 +12,28 @@ using System.Threading.Tasks;
 
 namespace BookStore.BookStoreApi.Application.Service
 {
-    internal class PersonService : IPersonService
+    public class PersonService : IPersonService
     {
-        private readonly IPersonRepository _personRepository { get; set; }
-        private readonly IMapper mapper;
-        public PersonService() { 
-        
+        private readonly IPersonRepository _personRepository;
+        private readonly IMapper _mapper;
+        public PersonService(IPersonRepository personRepository, IMapper mapper) { 
+            _personRepository = personRepository;
+            _mapper = mapper;
         }
 
-        public Task<ResultService<PersonDTO>> CreateAsync(PersonDTO personDTO)
+        public async Task<ResultService<PersonDTO>> CreateAsync(PersonDTO personDTO)
         {
-            throw new NotImplementedException();
+            if (personDTO == null)
+                return ResultService.Fail<PersonDTO>("Objeto deve ser informado");
+
+            var result = new PersonDTOValidator().Validate(personDTO);
+
+            if (!result.IsValid)
+                return ResultService.RequestError<PersonDTO>("Problemas de validação", result);
+
+            var person = _mapper.Map<Person>(personDTO);
+            var data = await _personRepository.CreateAsync(person);
+            return ResultService.OK<PersonDTO>(_mapper.Map<PersonDTO>(data));
         }
     }
 }

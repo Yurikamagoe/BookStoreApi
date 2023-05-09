@@ -1,0 +1,5 @@
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Api\obj\Debug\net6.0\BookStore.BookStoreApi.Api.csproj.AssemblyReference.cache
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Api\obj\Debug\net6.0\BookStore.BookStoreApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Api\obj\Debug\net6.0\BookStore.BookStoreApi.Api.AssemblyInfoInputs.cache
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Api\obj\Debug\net6.0\BookStore.BookStoreApi.Api.AssemblyInfo.cs
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Api\obj\Debug\net6.0\BookStore.BookStoreApi.Api.csproj.CoreCompileInputs.cache

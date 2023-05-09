@@ -1,11 +1,11 @@
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.deps.json
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.pdb
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.csproj.AssemblyReference.cache
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.AssemblyInfoInputs.cache
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.AssemblyInfo.cs
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.csproj.CoreCompileInputs.cache
-C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.deps.json
-C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.dll
-C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.pdb
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.dll
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\refint\BookStore.BookStoreApi.Domain.dll
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.pdb
