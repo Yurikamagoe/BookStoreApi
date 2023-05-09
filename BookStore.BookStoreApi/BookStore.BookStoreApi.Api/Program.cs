@@ -1,3 +1,4 @@
+using BookStore.BookStoreApi.Infra.Data.Context;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +12,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddMvc().AddJsonOptions(options =>
     options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull
 );
-
+builder.Services.AddDbContext<ApplicationDbContext>();
 
 var app = builder.Build();
 
