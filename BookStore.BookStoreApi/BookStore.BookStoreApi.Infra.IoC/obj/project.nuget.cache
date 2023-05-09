@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qHhVkUwzEC+eS8J7CIlHGmMKfwyFk2fXOKwAiqJpvaiFqu7W61heyaIzd23NXTtPTBdjwhCDexoRmfGqK30Zqw==",
+  "dgSpecHash": "O5Tn1ZgRWOCFgEJ/mpp38Nz8fBDPuQPs96i50+YoK4cVhU5Jodal94PoWS2ZZJ1SqtX443jorY1l/njcKK6e+Q==",
   "success": true,
   "projectFilePath": "C:\\CURSOS\\API Ploomes\\BookStoreApi\\BookStore.BookStoreApi\\BookStore.BookStoreApi.Infra.IoC\\BookStore.BookStoreApi.Infra.IoC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yuri_\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+    "C:\\Users\\yuri_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\yuri_\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\yuri_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
