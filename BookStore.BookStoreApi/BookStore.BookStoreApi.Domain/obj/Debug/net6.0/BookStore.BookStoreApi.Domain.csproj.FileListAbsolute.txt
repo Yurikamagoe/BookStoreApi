@@ -10,3 +10,5 @@ C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\refint\BookStore.BookStoreApi.Domain.dll
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.pdb
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\ref\BookStore.BookStoreApi.Domain.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.runtimeconfig.json
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Domain\obj\Debug\net6.0\BookStore.BookStoreApi.Domain.genruntimeconfig.cache

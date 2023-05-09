@@ -19,12 +19,6 @@ namespace BookStore.BookStoreApi.Domain.Entities
             Validation(document, name, phone);
         }
 
-        public Person(int id, string document, string phone)
-        {
-            DomainValidationException.When(id < 0, "Id deve ser conter um valor válido");
-            Id = id;
-        }
-
         private void Validation(string document, string name, string phone)
         {
             DomainValidationException.When(string.IsNullOrEmpty(document), "Documento deve ser informado");
