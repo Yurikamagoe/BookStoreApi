@@ -3,3 +3,17 @@ C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.AssemblyInfoInputs.cache
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.AssemblyInfo.cs
 C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.deps.json
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.pdb
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Application.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Infra.Data.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Application.pdb
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Domain.pdb
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\bin\Debug\net6.0\BookStore.BookStoreApi.Infra.Data.pdb
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.csproj.CopyComplete
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\refint\BookStore.BookStoreApi.Infra.IoC.dll
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\BookStore.BookStoreApi.Infra.IoC.pdb
+C:\CURSOS\API Ploomes\BookStoreApi\BookStore.BookStoreApi\BookStore.BookStoreApi.Infra.IoC\obj\Debug\net6.0\ref\BookStore.BookStoreApi.Infra.IoC.dll

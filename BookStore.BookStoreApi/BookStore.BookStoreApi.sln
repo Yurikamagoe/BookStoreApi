@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Domain", "BookStore.BookStoreApi.Domain\BookStore.BookStoreApi.Domain.csproj", "{48965653-C703-435F-B250-A6D8C1575FDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.BookStoreApi.Domain", "BookStore.BookStoreApi.Domain\BookStore.BookStoreApi.Domain.csproj", "{48965653-C703-435F-B250-A6D8C1575FDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Infra.Data", "BookStore.BookStoreApi.Infra.Data\BookStore.BookStoreApi.Infra.Data.csproj", "{718BE0B6-1733-4D2E-9921-ECBB05803CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.BookStoreApi.Infra.Data", "BookStore.BookStoreApi.Infra.Data\BookStore.BookStoreApi.Infra.Data.csproj", "{718BE0B6-1733-4D2E-9921-ECBB05803CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Application", "BookStore.BookStoreApi.Application\BookStore.BookStoreApi.Application.csproj", "{8300B98F-58D0-46F3-94AB-EE165BF4029D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.BookStoreApi.Application", "BookStore.BookStoreApi.Application\BookStore.BookStoreApi.Application.csproj", "{8300B98F-58D0-46F3-94AB-EE165BF4029D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Infra.IoC", "BookStore.BookStoreApi.Infra.IoC\BookStore.BookStoreApi.Infra.IoC.csproj", "{A35034C6-48C0-4408-8488-240D76EE431B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.BookStoreApi.Infra.IoC", "BookStore.BookStoreApi.Infra.IoC\BookStore.BookStoreApi.Infra.IoC.csproj", "{A35034C6-48C0-4408-8488-240D76EE431B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Api", "BookStore.BookStoreApi.Api\BookStore.BookStoreApi.Api.csproj", "{F4ABDA82-004A-4F35-BFE8-56B1A34B403C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.BookStoreApi.Api", "BookStore.BookStoreApi.Api\BookStore.BookStoreApi.Api.csproj", "{7732A083-3A81-4E52-AD98-CAE3E581C0D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{A35034C6-48C0-4408-8488-240D76EE431B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35034C6-48C0-4408-8488-240D76EE431B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A35034C6-48C0-4408-8488-240D76EE431B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4ABDA82-004A-4F35-BFE8-56B1A34B403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4ABDA82-004A-4F35-BFE8-56B1A34B403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4ABDA82-004A-4F35-BFE8-56B1A34B403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4ABDA82-004A-4F35-BFE8-56B1A34B403C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7732A083-3A81-4E52-AD98-CAE3E581C0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7732A083-3A81-4E52-AD98-CAE3E581C0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7732A083-3A81-4E52-AD98-CAE3E581C0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7732A083-3A81-4E52-AD98-CAE3E581C0D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

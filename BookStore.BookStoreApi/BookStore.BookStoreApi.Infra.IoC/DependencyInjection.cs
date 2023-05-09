@@ -10,10 +10,10 @@ namespace BookStore.BookStoreApi.Infra.IoC
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration)
-        {
-            //injeção de DbContext
-        }
+        //public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration)
+        //{
+        //    //injeção de DbContext
+        //}
 
     }
 }
