@@ -8,7 +8,7 @@ using BookStore.BookStoreApi.Domain.Repositories;
 
 namespace BookStore.BookStoreApi.Infra.Data.Repositories
 {
-    internal class PersonRepository : IPersonRepository
+    public class PersonRepository : IPersonRepository
     {
         //private readonly ApplicationDBContext
         Task<Person> IPersonRepository.CreateAsync(Person person)
